@@ -1,6 +1,6 @@
 # KaleidoSim API - NodeJs integration example.
 
-This project was created as example of how it is possible to consume all the functionalities provided by KaleidoSim API.
+This project was created as Javascript integration example with KaleidoSim API.
 
 The main language for this example project is JavaScript with NodeJS.
 
