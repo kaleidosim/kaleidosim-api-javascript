@@ -5,7 +5,7 @@ async function login() {
   const url = config.apiBaseURL + "/auth/login";
 
   // login data
-  const data = { email: config.user.email, password: config.user.password, phoneCode: "123456" };
+  const data = { email: config.user.email, password: config.user.password };
 
   const response = await axios.post(url, data, {
     headers: {
